@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SAFY</string>
+    <string name="title">SAFY</string>
+    <string name="start">Start</string>
+    <string name="face_detection">얼굴 인식을 하려면 눌러주세요.</string>
+</resources>
